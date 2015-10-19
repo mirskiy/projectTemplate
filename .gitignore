@@ -1,3 +1,11 @@
+# ignore the venv folder in the roor
+/venv/
+
+# ignore any files and dirs ending in .temp
+*.temp
+
+
+##### Github default for python #####
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
